@@ -1,0 +1,10 @@
+.result-name-card{
+    color:white;
+    background:#05386B;
+    margin :10px 15px;
+    min-width: 75px;
+    padding:10px 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}

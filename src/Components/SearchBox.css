@@ -1,0 +1,14 @@
+.search-container{
+    display:flex;
+    justify-content:center;
+    margin:15px;
+}
+
+.search{
+    padding :8px 16px;
+    font-size:12px;
+    border-radius: 30px;
+    border:none;
+    background:white;
+    color:black;
+}
