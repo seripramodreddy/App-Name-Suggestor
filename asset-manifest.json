@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/App-Name-Suggestor/static/css/main.438efd08.chunk.css",
+    "main.js": "/App-Name-Suggestor/static/js/main.e47ffb8c.chunk.js",
+    "main.js.map": "/App-Name-Suggestor/static/js/main.e47ffb8c.chunk.js.map",
+    "runtime-main.js": "/App-Name-Suggestor/static/js/runtime-main.73e9de1c.js",
+    "runtime-main.js.map": "/App-Name-Suggestor/static/js/runtime-main.73e9de1c.js.map",
+    "static/js/2.2b1f8f7f.chunk.js": "/App-Name-Suggestor/static/js/2.2b1f8f7f.chunk.js",
+    "static/js/2.2b1f8f7f.chunk.js.map": "/App-Name-Suggestor/static/js/2.2b1f8f7f.chunk.js.map",
+    "static/js/3.403f588d.chunk.js": "/App-Name-Suggestor/static/js/3.403f588d.chunk.js",
+    "static/js/3.403f588d.chunk.js.map": "/App-Name-Suggestor/static/js/3.403f588d.chunk.js.map",
+    "index.html": "/App-Name-Suggestor/index.html",
+    "static/css/main.438efd08.chunk.css.map": "/App-Name-Suggestor/static/css/main.438efd08.chunk.css.map",
+    "static/js/2.2b1f8f7f.chunk.js.LICENSE.txt": "/App-Name-Suggestor/static/js/2.2b1f8f7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73e9de1c.js",
+    "static/js/2.2b1f8f7f.chunk.js",
+    "static/css/main.438efd08.chunk.css",
+    "static/js/main.e47ffb8c.chunk.js"
+  ]
+}
