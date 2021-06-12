@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import logo from "../../images/undraw_Domain_names_re_0uun.svg";
+import logo from "./../../../public/images/undraw_Domain_names_re_0uun.svg";
 
 const Header=(props)=>{
     return(
